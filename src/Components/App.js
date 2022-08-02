@@ -5,7 +5,7 @@ import axios from 'axios';
 import SearchForm from './SearchForm';
 import GifList from './GifList';
 
-function App() {
+function Ap() {
 
   return (
     <>
